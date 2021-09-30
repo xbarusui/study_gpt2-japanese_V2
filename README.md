@@ -28,7 +28,7 @@ rinna で提供された学習済みモデルをお借りしています
 
 ## 機能概要
 
-### study_gpt2_japanese_AuthorAI.ipynb
+### study_gpt2_japaneseV2_AuthorAI.ipynb
 
  - 1.前準備( google ドライブ)
  - 2.前準備(モジュールインストール)
