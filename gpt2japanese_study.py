@@ -287,9 +287,11 @@ def main():
     if model_args.tokenizer_name:
         #tokenizer = AutoTokenizer.from_pretrained(model_args.tokenizer_name, **tokenizer_kwargs)
         tokenizer = T5Tokenizer.from_pretrained(model_args.tokenizer_name, **tokenizer_kwargs)
+        tokenizer.do_lower_case = True
     elif model_args.model_name_or_path:
         #tokenizer = AutoTokenizer.from_pretrained(model_args.model_name_or_path, **tokenizer_kwargs)
         tokenizer = T5Tokenizer.from_pretrained(model_args.model_name_or_path, **tokenizer_kwargs)
+        tokenizer.do_lower_case = True
     else:
         raise ValueError(
             "You are instantiating a new tokenizer from scratch. This is not supported by this script."
