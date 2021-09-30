@@ -6,7 +6,7 @@ rinnna で提供された学習済みモデルをお借りしています。
 ## はじめに
 
  - こちらのページは 「うすいのお茶の間開発日誌」https://novelup.plus/story/942595339 で企画した colab版 AI 学習実験のためのページです
- - 学習に当たっては、以下の機能概要にある 2つの ipynb ファイルを使用します
+ - 学習に当たっては、以下の機能概要にある ipynb ファイルを使用しますので、クリックして開いてください。
 
 
 ## 使い方
@@ -21,7 +21,7 @@ rinnna で提供された学習済みモデルをお借りしています。
 
 ## 学習済みモデルについて
 
-[rinnna](https://github.com/rinnakk/japanese-pretrained-models)
+[rinna japanese-pretrained-models](https://github.com/rinnakk/japanese-pretrained-models)
 
 
 
@@ -29,12 +29,11 @@ rinnna で提供された学習済みモデルをお借りしています。
 
 ### study_gpt2_japanese_AuthorAI.ipynb
 
- - 2.1 GPT-2 の準備
- - 2.2 作家 AI モデルの準備
- - 2.3 作家 AI モデルを選択し、文章を生成
+ - 1.前準備( google ドライブ)
+ - 2.前準備(モジュールインストール)
+ - 3.作家 AI 学習（学習不要な場合はスキップできます）
+ - 4.作家 AI 文章生成
 
-
----
 
 ## License
 
