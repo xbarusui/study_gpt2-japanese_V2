@@ -12,7 +12,7 @@ rinna で提供された学習済みモデルをお借りしています
 
 ## 使い方
 
-- ipynb ファイルをクリックして、ページ内の「Open in Colab」ボタンを押してください
+- study_gpt2_japaneseV2_AuthorAI.ipynb ファイルをクリックして、ページ内の「Open in Colab」ボタンを押してください
 
 ![Google Colabボタンスクリーンショット](https://user-images.githubusercontent.com/12935099/132114635-d0625e1f-9763-4a80-8934-b1b40695cad4.png)
 
