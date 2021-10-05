@@ -8,7 +8,7 @@
 
  - こちらのページは 「うすいのお茶の間開発日誌」https://novelup.plus/story/942595339 で企画した colab版 AI 学習実験のためのページです
  - ご自分の作品の text を読み込ませることで創作作家 AI を作り、文章生成を試すことができます
- - 学習に当たっては、以下の機能概要にある ipynb ファイルを使用しますので、クリックして開いてください
+ - 学習に当たっては、以下の機能概要にある ipynb ファイルを使用しますので、![こちら](https://github.com/xbarusui/study_gpt2-japanese_V2/blob/main/study_gpt2_japaneseV2_AuthorAI.ipynb)をクリックして開いてください
 
 
 ## 使い方
@@ -40,3 +40,7 @@
 ## License
 
 [The Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0)
+
+## 変更履歴
+
+V2.00 transformer 内の run_clm.py を修正し gpt2japanese_study.py に変更
