@@ -13,12 +13,14 @@
 
 ## 使い方
 
-- ![study_gpt2_japaneseV2_AuthorAI.ipynb](https://github.com/xbarusui/study_gpt2-japanese_V2/blob/main/study_gpt2_japaneseV2_AuthorAI.ipynb) ファイルをクリックして、ページ内の「Open in Colab」ボタンを押してください
+- ![study_gpt2_japaneseV2_AuthorAI.ipynb](https://github.com/xbarusui/study_gpt2-japanese_V2/blob/main/study_gpt2_japaneseV2_AuthorAI.ipynb) をクリックしてください
+
+ - study_gpt2_japaneseV2_AuthorAI.ipynbページ内の「Open in Colab」ボタンを押してください。（下はイメージです）
 
 ![Google Colabボタンスクリーンショット](https://user-images.githubusercontent.com/12935099/132114635-d0625e1f-9763-4a80-8934-b1b40695cad4.png)
 
- - 上のボタンを押すと、 ipynb ファイルが自分のGoogle Colabページにコピーされます
- - コピーした後は資料の手順に従い実行してみてください
+
+- コピーした後は資料の手順に従い実行してみてください
 
 
 ## 学習済みモデルについて
